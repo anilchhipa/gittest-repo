@@ -16,4 +16,7 @@ public class GitTestManager {
 		System.out.println("print is added from local 4");
 		System.out.println("print is added from local 2");
 	}
+	public static void test() {
+		
+	}
 }
