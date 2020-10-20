@@ -8,10 +8,12 @@ public class GitTestManager {
 		System.out.println("Git is awesome add from local 3");
 	}
 	
-	public static void printRemote() {
+	public static void printCorrect() {
+		System.out.println("print is added from local 3");
 		System.out.println("print is added from remote 1");
 		System.out.println("print is added from local 1");
 		System.out.println("print is added from remote 2");
+		System.out.println("print is added from local 4");
 		System.out.println("print is added from local 2");
 	}
 }
